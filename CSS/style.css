@@ -36,12 +36,15 @@ ul{
 
 .hero-content {
     width : 80px;
-    height : auto;
+    height : 250px;
     color : #fff;
     margin : 8em 0 2em;
-    background-color : #000080;
+    background-color : #000000;
 }
 
+span {
+    color : #000000;
+}
 .subtitle {
     margin-bottom : 0;
 }
